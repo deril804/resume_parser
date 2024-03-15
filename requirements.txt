@@ -1,0 +1,9 @@
+langchain_community
+langchain
+pymupdf
+pytesseract
+pylint
+docx2txt
+black==22.12.0
+click==8.1.3
+flake8==6.0.0
