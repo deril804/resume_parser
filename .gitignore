@@ -1,2 +1,16 @@
-/venv
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
 /data
+basic.log
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.idea/
+.vscode/
+*.iml
